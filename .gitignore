@@ -1,0 +1,4 @@
+
+*.txt
+override/language/english/dictionary/message_log.txt
+override/language/english/dictionary/weapons.txt
