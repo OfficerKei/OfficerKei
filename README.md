@@ -9,6 +9,6 @@ GitHubでの私の公開（Publish）がようやくなんとかできました�
 War on the Sea　最新のVer.108e2 beta に対応した翻訳ファイルを作成しました。
 煙幕や魚雷、cease attack(撃ち方止め)などに
 
-もし、まだ"War on the Sea"の日本語化を続けていらっしゃったら、よければ、と思い、Invateしました。
+もし、まだ"War on the Sea"の日本語化を続けていらっしゃったら、よければ、と思い、Invite差し上げました。
 
 
