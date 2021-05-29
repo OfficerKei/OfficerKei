@@ -1,0 +1,1 @@
+﻿{"unitName":"Wildcat","weaponDescriptions":["6x Browning machine gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"]}
