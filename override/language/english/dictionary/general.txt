@@ -488,7 +488,7 @@ IncreaseSpeed=増速
 DecreaseSpeed=減速
 
 Menu=メニュー
-UnitID=艦種識別表
+UnitID=艦種識別帳
 Orders=命令
 DamageControl=損傷対応
 Weap0=主砲|機銃
