@@ -1,7 +1,7 @@
-australia=豪州
-britain=英国
+﻿australia=オーストラリア
+britain=イギリス
 japan=日本
-usa=米国
+usa=アメリカ合衆国
 
 distanceUnits=㍉|㍍|㌖|"|'|㍎|㌋
 tons= ㌧
@@ -85,7 +85,7 @@ ActionReportTotalSunk=総沈没数:
 ActionReportAir=航空機:
 ActionReportAirLost=損失:
 ActionReportTons=トン
-ActionCommandPoints=受領したコマンドポイント:
+ActionCommandPoints=コマンドポイント:
 
 UnitIDNext=次を調査
 UnitIDPrev=前を調査
@@ -230,7 +230,7 @@ Continue=続ける
 Statistics=諸元
 Weapons=武装
 AntiAircraft=対空配置
-SensorsArmor=装甲・センサー
+SensorsArmor=装甲/センサー
 CounterFlood=対舷注水区画
 AutoDC=損害対策自動実行
 SwitchSeaAir=海/空切り替え
@@ -281,7 +281,6 @@ SonarSensitivityOptions=1x,2x,3x,4x
 
 Difficulty=難易度
 DifficultyTitles=Modifier (Default 1)				プレーヤ			敵
-
 BaseEfficiency=艦船基礎効率度
 ShellDamage=砲弾によるダメージ
 TorpedoDamage=魚雷によるダメージ
@@ -350,7 +349,7 @@ Theatres=太平洋,大西洋,インド洋,地中海
 [CAMPAIGN]
 AutoSaveName=Autosave.txt
 FormationLabels=1.|2.|3.|4.|5.|6.|7.|8.|9.|10.|11.|12.
-CPlayerPoints=コマンドポイント:
+CPlayerPoints=コマンドポイント
 CSummary=キャンペーン概要
 CSummaryUnits=艦船
 CSummaryLocations=拠点
@@ -410,7 +409,7 @@ CGoTo=GOTO
 CombatLoad=ゲーム読込
 CombatSave=ゲーム保存
 
-DescriptionGeneral=この領域内を索敵・交戦せよ.
+DescriptionGeneral=この領域内を索敵し交戦せよ.
 DescriptionBombard=艦砲射撃の実施せよ.\n戦艦,巡洋戦艦,重巡洋艦が必要となる.\n- 目標地のどこにでも弾着する.\n- 小口径砲の着弾は表面的な損傷を与えるのみ
 DescriptionMuseum=ユニットを調べよ.\n\n識別帳を使用して様々な艦船・航空機を閲覧せよ.\n”ユニットを選択”し操作せよ.
 
@@ -435,6 +434,7 @@ Months=1月|2月|3月|4月|5月|6月|7月|8月|9月|10月|11月|12月
 Years=1938|1946
 DecimalDegrees=約10進数角表示
 ClearAll=全消去
+
 ClearOptions=オプションをデフォルトにリセットし、再起動しますか？
 
 [PAUSE]
@@ -502,17 +502,17 @@ Weap7=--
 Weap8=--
 Weap9=--
 RadarOnOff=レーダー On/Off
-ActiveSonarOnOff=アクティブソナー On/Off
+ActiveSonarOnOff=アクティブソナーOn/Off
 
 MessageLog=メッセージログ
 
 SelectUnit=ユニット選択
 AddUnit=ユニット追加
 CampSummary=概要
-CampUnitID=参照・ユニット配置
+CampUnitID=参照/ユニット配置
 NextMobile=次艦船/航空機
 NextLocation=次拠点
-CentreMap=地図中央表示
+CentreMap=地図中央
 ToggleSea=艦船表示
 ToggleAir=航空機表示
 ToggleLocation=拠点表示
