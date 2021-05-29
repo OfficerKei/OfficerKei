@@ -1,4 +1,4 @@
-﻿australia=豪州
+australia=豪州
 britain=英国
 japan=日本
 usa=米国
