@@ -1,4 +1,4 @@
-﻿australia=豪州
+australia=豪州
 britain=英国
 japan=日本
 usa=米国
@@ -411,8 +411,8 @@ CombatLoad=ゲーム読込
 CombatSave=ゲーム保存
 
 DescriptionGeneral=この領域内の敵を探索・交戦せよ.
-DescriptionBombard=艦砲射撃の実施.\n戦艦,巡洋戦艦,重巡洋艦が必要となる.\n- 目標地のどこにでも弾着\n- 小口径砲の着弾は表面的な損傷を与えるのみ
-DescriptionMuseum=ユニットを調べよ.\n\n識別帳を使用して様々な艦船・航空機を閲覧.\n”ユニットを選択”し操作.
+DescriptionBombard=艦砲射撃の実施せよ.\n戦艦,巡洋戦艦,重巡洋艦が必要となる.\n- 目標地のどこにでも弾着する\n- 小口径砲の着弾は表面的な損傷を与えるのみ
+DescriptionMuseum=ユニットを調べよ.\n\n識別帳を使用して様々な艦船・航空機を閲覧せよ.\n”ユニットを選択”し操作せよ.
 
 [EDITOR]
 Factions=プレイヤー|敵|中立
